@@ -1,5 +1,5 @@
-pwp
-qqqqq
-pppwwwqqq
-qpwwpqwpqpw
-pqpqpqpq
+20
+5
+30
+2
+84
